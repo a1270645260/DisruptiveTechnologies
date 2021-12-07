@@ -1,0 +1,2 @@
+# DisruptiveTechnologies
+对于颠覆性技术的一些资料收集与总结
